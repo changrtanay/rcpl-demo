@@ -1,7 +1,6 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://rcpl.vercel.app/)
 # Rajiv Creation Pvt. Ltd. (rcpl)
 
-## Overview
 A modern fashion eCommerce platform built using React, MongoDB, Express, Stripe, FastBot, Google OAuth, and Docker.
 
 ## Screenshot
